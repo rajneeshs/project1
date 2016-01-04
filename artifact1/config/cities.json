@@ -1,0 +1,217 @@
+{
+	"cities": 
+	{
+		"city": 
+		[
+			{
+				"name": "Boston",
+				"region": "brown"
+			},
+
+			{
+				"name": "New York",
+				"region": "brown"
+			},
+
+			{
+				"name": "Philadelphia",
+				"region": "brown"
+			},
+
+			{
+				"name": "Washington",
+				"region": "brown"
+			},
+
+			{
+				"name": "Buffalo",
+				"region": "brown"
+			},
+
+			{
+				"name": "Pittsburgh",
+				"region": "brown"
+			},
+
+			{
+				"name": "Detroit",
+				"region": "brown"
+			},
+
+			{
+				"name": "Norfolk",
+				"region": "green"
+			},
+
+			{
+				"name": "Raleigh",
+				"region": "green"
+			},
+
+			{
+				"name": "Savannah",
+				"region": "green"
+			},
+
+			{
+				"name": "Jacksonville",
+				"region": "green"
+			},
+
+			{
+				"name": "Tampa",
+				"region": "green"
+			},
+
+			{
+				"name": "Miami",
+				"region": "green"
+			},
+
+			{
+				"name": "Atlanta",
+				"region": "green"
+			},
+
+			{
+				"name": "Knoxville",
+				"region": "yellow"
+			},
+
+			{
+				"name": "Cincinnati",
+				"region": "yellow"
+			},
+
+			{
+				"name": "Chicago",
+				"region": "yellow"
+			},
+
+			{
+				"name": "St. Louis",
+				"region": "yellow"
+			},
+
+			{
+				"name": "Minneapolis",
+				"region": "yellow"
+			},
+
+			{
+				"name": "Duluth",
+				"region": "yellow"
+			},
+
+			{
+				"name": "Fargo",
+				"region": "yellow"
+			},
+
+			{
+				"name": "Birmingham",
+				"region": "red"
+			},
+
+			{
+				"name": "Memphis",
+				"region": "red"
+			},
+
+			{
+				"name": "New Orleans",
+				"region": "red"
+			},
+
+			{
+				"name": "Kansas City",
+				"region": "red"
+			},
+
+			{
+				"name": "Oklahoma City",
+				"region": "red"
+			},
+
+			{
+				"name": "Dallas",
+				"region": "red"
+			},
+
+			{
+				"name": "Houston",
+				"region": "red"
+			},
+
+			{
+				"name": "Omaha",
+				"region": "purple"
+			},
+
+			{
+				"name": "Denver",
+				"region": "purple"
+			},
+
+			{
+				"name": "Cheyenne",
+				"region": "purple"
+			},
+
+			{
+				"name": "Billings",
+				"region": "purple"
+			},
+
+			{
+				"name": "Boise",
+				"region": "purple"
+			},
+
+			{
+				"name": "Seattle",
+				"region": "purple"
+			},
+
+			{
+				"name": "Portland",
+				"region": "purple"
+			},
+
+			{
+				"name": "San Francisco",
+				"region": "blue"
+			},
+
+			{
+				"name": "Salt Lake City",
+				"region": "blue"
+			},
+
+			{
+				"name": "Santa Fe",
+				"region": "blue"
+			},
+
+			{
+				"name": "Las Vegas",
+				"region": "blue"
+			},
+
+			{
+				"name": "Phoenix",
+				"region": "blue"
+			},
+
+			{
+				"name": "San Diego",
+				"region": "blue"
+			},
+
+			{
+				"name": "Los Angeles",
+				"region": "blue"
+			}
+		]
+	}
+}

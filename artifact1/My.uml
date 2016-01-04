@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_QJ_W0ItbEeWLDYpdJkBRfg">
+  <packageImport xmi:id="_XWfWEJZZEeWIq4zVb2pbzA">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Class" xmi:id="_hhQaAIweEeW1moVDaIBdtg" name="Class1"/>
+  <packagedElement xmi:type="uml:Class" xmi:id="_i_ddYIweEeW1moVDaIBdtg" name="Class2" isLeaf="true">
+    <generalization xmi:id="_pCD5AIweEeW1moVDaIBdtg" general="_hhQaAIweEeW1moVDaIBdtg"/>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_wwsKcJZXEeWIq4zVb2pbzA" name="MarketBucket">
+    <packageImport xmi:id="_bG4_IJcVEeWgQIhb_3JjBw">
+      <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#_0"/>
+    </packageImport>
+    <ownedAttribute xmi:id="_M6TOkJZaEeWIq4zVb2pbzA" name="Price" visibility="private" isLeaf="true">
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      <defaultValue xmi:type="uml:LiteralInteger" xmi:id="_Uw_eAZZaEeWIq4zVb2pbzA"/>
+    </ownedAttribute>
+    <ownedAttribute xmi:id="_mjP-sJZaEeWIq4zVb2pbzA" name="Resource" visibility="private" isLeaf="true">
+      <eAnnotations xmi:id="_YgPtAJcVEeWgQIhb_3JjBw"/>
+      <type xmi:type="uml:PrimitiveType" href="pathmap://UML_METAMODELS/UML.metamodel.uml#Profile-EMap_EJavaObject_EJavaObject"/>
+    </ownedAttribute>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Enumeration" xmi:id="_FhYLIJZYEeWIq4zVb2pbzA" name="Resources">
+    <ownedLiteral xmi:id="_ISC78JZYEeWIq4zVb2pbzA" name="Coal"/>
+    <ownedLiteral xmi:id="_KcnWEJZYEeWIq4zVb2pbzA" name="Oil"/>
+    <ownedLiteral xmi:id="_LW7pQJZYEeWIq4zVb2pbzA" name="Garbage"/>
+    <ownedLiteral xmi:id="_MdGAEJZYEeWIq4zVb2pbzA" name="Uranium"/>
+  </packagedElement>
+</uml:Model>
